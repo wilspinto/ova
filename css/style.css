@@ -87,6 +87,7 @@
 	top: -223px;
             }
             #apDiv10 {
+<<<<<<< HEAD
             position: absolute;
             width: 713px;
             height: 39px;
@@ -95,6 +96,19 @@
             top: 206px;
             }
         strong {
+=======
+	position: absolute;
+	width: 713px;
+	height: 39px;
+	z-index: 2;
+	left: 119px;
+	top: 368px;
+            }
+        strong {
+	font-size: 15px;
+	font-weight: bold;
+	color: #003F5E;
+>>>>>>> origin/master
 }
 div {
 	text-align: center;
@@ -187,7 +201,11 @@ div {
 	height: 43px;
 	z-index: 8;
 	left: 560px;
+<<<<<<< HEAD
 	top: 191px;
+=======
+	top: 185px;
+>>>>>>> origin/master
 	color: #FFFFFF;
 }
         #apDiv20 {
@@ -226,11 +244,19 @@ div {
 }
         #apDiv24 {
 	position: absolute;
+<<<<<<< HEAD
 	width: 620px;
 	height: 40px;
 	z-index: 1;
 	left: 200px;
 	top: 140px;
+=======
+	width: 632px;
+	height: 21px;
+	z-index: 1;
+	left: 160px;
+	top: 142px;
+>>>>>>> origin/master
 	color: #006680;
 	border-top-color: #006680;
 }
@@ -287,9 +313,15 @@ h1{
 }
 h2{
 	font-family: Arial, Helvetica, sans-serif;
+<<<<<<< HEAD
 	color: #1C2123;
 	margin-left: 10px;
 	font-size: 16px;
+=======
+	color: #003F5E;
+	margin-left: 10px;
+	font-size: 18px;
+>>>>>>> origin/master
 	text-align: center;
 	border-top: #006680;
 }
@@ -389,7 +421,10 @@ p{
 
 .ancho_menu_paginas{width: 970px;}
 .menu:link{
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 	color: #FFF;
 	text-decoration: none;
 }
@@ -398,23 +433,323 @@ p{
 	text-decoration: none;
 }
 .menu:hover{
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> origin/master
 	color: #FF6600;
 	text-decoration: none;
 	/*text-shadow: 0 0 13px white;*/
 }
 .menu:active{
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
 	color: #003F5E;
 	text-decoration: none;
 }
 
 /*SEUDO CLASES*/
 p {
+<<<<<<< HEAD
 	font-size: 14px;
 	font-weight: normal;
 	color: #333;
 	text-align: justify;
 
+=======
+	font-size: 12px;
+	font-weight: bold;
+	color: #333333;
+}
+/***************************************/
+.dropdownmenu ul, .dropdownmenu li {
+	margin: 0;
+	padding: 0;
+}
+.dropdownmenu ul {
+	background: gray;
+	list-style: none;
+	width: 100%;
+}
+.dropdownmenu li {
+	float: left;
+	position: relative;
+	width: auto;
+}
+.dropdownmenu a {
+	background: #003F5E;
+	color: #FFFFFF;
+	display: block;
+	font: bold 12px/20px sans-serif;
+	padding: 10px 25px;
+	text-align: center;
+	text-decoration: none;
+	-webkit-transition: all .25s ease;
+	-moz-transition: all .25s ease;
+	-ms-transition: all .25s ease;
+	-o-transition: all .25s ease;
+	transition: all .25s ease;
+}
+.dropdownmenu li:hover a {
+	background: #FF6600;
+}
+      #apDiv28 {
+	position: absolute;
+	width: 490px;
+	height: 129px;
+	z-index: 13;
+	left: 138px;
+	top: 290px;
+}
+        #apDiv29 {
+	position: absolute;
+	width: 118px;
+	height: 124px;
+	z-index: 1;
+	top: 327px;
+	left: -41px;
+}
+        #apDiv30 {
+	position: absolute;
+	width: 337px;
+	height: 144px;
+	z-index: 2;
+	left: 122px;
+	top: 304px;
+}
+ #apDiv31 {
+	position: absolute;
+	width: 713px;
+	height: 31px;
+	z-index: 14;
+	background-color: #003F5E;
+	border-radius: 10px 0px 0px 0px;
+	top: 240px;
+	color: #FFF;
+	left: 0px;
+}
+        #apDiv32 {
+	position: absolute;
+	width: 200px;
+	height: 25px;
+	z-index: 15;
+	color: #FFF;
+	left: 258px;
+	top: 246px;
+	font-weight: bold;
+}
+       
+        #apDiv33 {
+	position: absolute;
+	width: 112px;
+	height: 115px;
+	z-index: 16;
+	left: 172px;
+	top: 293px;
+}
+        #apDiv34 {
+	position: absolute;
+	width: 112px;
+	height: 115px;
+	z-index: 17;
+	left: 172px;
+	top: 425px;
+}
+        #apDiv35 {
+	position: absolute;
+	width: 112px;
+	height: 115px;
+	z-index: 18;
+	left: 172px;
+	top: 561px;
+}
+        #apDiv36 {
+	position: absolute;
+	width: 112px;
+	height: 115px;
+	z-index: 19;
+	left: 172px;
+	top: 698px;
+}
+        #apDiv37 {
+	position: absolute;
+	width: 112px;
+	height: 115px;
+	z-index: 20;
+	left: 172px;
+	top: 832px;
+}
+        #apDiv38 {
+	position: absolute;
+	width: 322px;
+	height: 134px;
+	z-index: 21;
+	left: 300px;
+	top: 266px;
+}
+        #apDiv39 {
+	position: absolute;
+	width: 321px;
+	height: 115px;
+	z-index: 22;
+	left: 301px;
+	top: 396px;
+}
+        #apDiv40 {
+	position: absolute;
+	width: 322px;
+	height: 115px;
+	z-index: 23;
+	left: 301px;
+	top: 532px;
+}
+        #apDiv41 {
+	position: absolute;
+	width: 321px;
+	height: 115px;
+	z-index: 24;
+	left: 302px;
+	top: 670px;
+}
+        #apDiv42 {
+	position: absolute;
+	width: 325px;
+	height: 115px;
+	z-index: 25;
+	left: 299px;
+	top: 805px;
+}
+ #apDiv43 {
+	position: absolute;
+	width: 636px;
+	height: 385px;
+	z-index: 16;
+	left: 32px;
+	top: 1207px;
+ }
+  #apDiv28 {
+	position: absolute;
+	width: 713px;
+	height: 44px;
+	z-index: 13;
+	left: 0px;
+	top: 240px;
+	border-radius: 10px 0px 0px 0px;
+	background-color: #003F5E;
+}
+        #apDiv43 {
+	position: absolute;
+	width: 124px;
+	height: 115px;
+	z-index: 14;
+	left: 84px;
+	top: 322px;
+}
+ #apDiv28 {
+	position: absolute;
+	width: 713px;
+	height: 44px;
+	z-index: 13;
+	left: 0px;
+	top: 240px;
+	background-color: #003F5E;
+	border-radius: 10px 0px 0px 0px;
+}
+ #apDiv28 {
+	position: absolute;
+	width: 713px;
+	height: 44px;
+	z-index: 13;
+	left: 0px;
+	top: 240px;
+	border-radius: 10px 0px 0px 0px;
+	background-color: #003F5E;
+}
+#apDiv28 {
+	position: absolute;
+	width: 713px;
+	height: 44px;
+	z-index: 13;
+	left: 0px;
+	top: 240px;
+	background-color: #003F5E;
+	border-radius: 10px 0px 0px 0px;
+}
+ #apDiv28 {
+	position: absolute;
+	width: 713px;
+	height: 44px;
+	z-index: 13;
+	left: 0px;
+	top: 240px;
+	background-color: #003F5E;
+	border-radius: 10px 0px 0px 0px;
+}
+#apDiv28 {
+	position: absolute;
+	width: 713px;
+	height: 44px;
+	z-index: 13;
+	left: 0px;
+	top: 240px;
+	background-color: #003F5E;
+	border-radius: 10px 0px 0px 0px;
+}
+ #apDiv28 {
+	position: absolute;
+	width: 713px;
+	height: 44px;
+	z-index: 13;
+	left: 0px;
+	top: 240px;
+	background-color: #003F5E;
+	border-radius: 10px 0px 0px 0px;
+}
+        #apDiv28 {
+	position: absolute;
+	width: 713px;
+	height: 44px;
+	z-index: 13;
+	left: 0px;
+	top: 240px;
+	border-radius: 10px 0px 0px 0px;
+	background-color: #003F5E;
+}
+        #apDiv43 {
+	position: absolute;
+	width: 90px;
+	height: 79px;
+	z-index: 16;
+	left: 37px;
+	top: 385px;
+}
+ #apDiv44 {
+	position: absolute;
+	width: 609px;
+	height: 68px;
+	z-index: 17;
+	left: 18px;
+	top: 812px;
+}
+        #apDiv45 {
+	position: absolute;
+	width: 462px;
+	height: 76px;
+	z-index: 18;
+	left: 3px;
+	top: 753px;
+}
+#apDiv28 {
+	position: absolute;
+	width: 713px;
+	height: 44px;
+	z-index: 13;
+	left: 0px;
+	top: 240px;
+	border-radius: 10px 0px 0px 0px;
+	background-color: #003F5E;
+>>>>>>> origin/master
 }

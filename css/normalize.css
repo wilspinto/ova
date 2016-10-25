@@ -46,7 +46,7 @@ summary {
 	display: block;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 14px;
-	text-align: center;
+	text-align: left;
 }
 
 /**
@@ -188,7 +188,7 @@ sub {
 
 img {
 	border: 0;
-	border-radius: 10px 10px 0px 0px;
+	border-radius: 0px 0px 0px 0px;
 }
 
 /**
@@ -475,4 +475,34 @@ div {
 }
 .class body footer #apDiv25 {
 	font-size: 11px;
+}
+p {
+	font-weight: normal;
+}
+.class body section article p {
+	font-size: 12px;
+}
+p {
+	font-size: 12px;
+}
+.class body section article p {
+	color: #000;
+}
+.class body section div article strong {
+	text-align: left;
+}
+p {
+	font-weight: normal;
+}
+.class body section #apDiv38 p {
+	font-weight: normal;
+}
+#apDiv38 {
+	font-weight: normal;
+}
+p {
+	font-weight: normal;
+}
+p {
+	color: #003F5E;
 }
